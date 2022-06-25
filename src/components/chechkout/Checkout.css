@@ -1,0 +1,28 @@
+.checkout {
+  top: 0;
+  padding: 8px;
+  z-index: -1;
+}
+
+.checkout__header {
+  display: flex;
+  height: max-content;
+  background-color: white;
+}
+
+.checkout__headerLeft {
+  margin-right: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.checkout__headerLeft > img {
+  width: 100%;
+  margin-right: 24px;
+}
+
+.checkout__title > h2 {
+  margin-top: 6px;
+  margin-bottom: 12px;
+}

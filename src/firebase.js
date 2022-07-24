@@ -46,13 +46,13 @@ import "firebase/compat/auth";
 import "firebase/compat/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBuFNYMe11q2DF22ULevisoiE1P-RnZfoM",
-  authDomain: "clone-57f4b.firebaseapp.com",
-  projectId: "clone-57f4b",
-  storageBucket: "clone-57f4b.appspot.com",
-  messagingSenderId: "741958971658",
-  appId: "1:741958971658:web:7037d619035872da65caf3",
-  measurementId: "G-52H387GNY7",
+  apiKey: "AIzaSyD4F59O7Eo426ZOEkb_2VJ6TK_NiWYNEeQ",
+  authDomain: "challenge1-e10b0.firebaseapp.com",
+  projectId: "challenge1-e10b0",
+  storageBucket: "challenge1-e10b0.appspot.com",
+  messagingSenderId: "382592058915",
+  appId: "1:382592058915:web:0109a6f5641592a6d75396",
+  measurementId: "G-JZX01PC5RD"
 };
 
 // Use this to initialize the firebase App
